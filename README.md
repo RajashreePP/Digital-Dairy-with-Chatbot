@@ -6,4 +6,5 @@ This is web application where machine learning models are integrated. There are 
 ## How to Install and Run the Project:
 * Download peoject
 * Make sure python is installed
-* Install all necessary packages i.e. tensorflow,numpy,
+* Install all necessary packages i.e. tensorflow,numpy,flask,nltk
+* Then run app.py file and follow api link to check output
